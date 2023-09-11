@@ -4,6 +4,8 @@ Welcome to the LvL Up app!
 
 This is one module of a bigger project, a full-fledged self-management app with gamification features. This module includes the screens to register or log in to the app, and the notes screen to create, update and delete notes.
 
+https://github.com/brunofreda/lvl-up-authentication-notes/assets/47567054/a6d057b8-2aeb-4e06-bc91-00a33161f2ff
+
 ![LvL Up - First image](/images/lvl_up_authentication_notes_1.jpg)
 
 ![LvL Up - Second image](/images/lvl_up_authentication_notes_2.jpg)
