@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572776334786",
+    "project_id": "notes-module-lvl-up-app",
+    "storage_bucket": "notes-module-lvl-up-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572776334786:android:bf1f2afcd864fa395f425b",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572776334786-ibkbpfpvss0v8ie4nbign7dvis8u8kjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8yFX5AEq7VTecm_lCo7NF5kkAci5I1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572776334786-ibkbpfpvss0v8ie4nbign7dvis8u8kjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
