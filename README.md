@@ -19,13 +19,14 @@ https://github.com/brunofreda/lvl-up-authentication-notes/assets/47567054/a6d057
 - Icon button to show or hide the password
 - Verifying email screen which automatically sends a verification email to the user and lets him resend it
 - Error handling for various authentication errors (wrong password, invalid email, etc.)
+- The dialog boxes have been created using generics
 - Link between login and register screens
 - Functionality to reset password
 - Notes screen that emulates real sticky notes on a pinboard
 - A button to add notes and a menu with the option to log out
 - The notes can be updated upon tapping on them and have a button to delete them
 - Score counter on the appbar that would be functional on the full app
-- Loading screens
+- Loading screens using overlay
 
 ### Server side
 
